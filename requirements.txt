@@ -1,0 +1,5 @@
+mss
+Pillow
+python-docx
+python-pptx
+pywin32
